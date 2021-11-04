@@ -1,3 +1,6 @@
+#source{
+  background: honeydew;
+}
 body{
   color:white;
   font-size: 1.25rem;
@@ -14,4 +17,39 @@ h1{
 body{
   background: tomato;
 }
+/* .definition{
+  color:white;
+}
+div p {
+  color:black;
+}
 
+p{
+  color: green;
+}
+.source{
+  background: greenyellow;
+} */
+
+.definition{
+  color:pink
+}
+#source{
+  background: white !important;
+}
+#source{
+  background: red ;
+}
+div ~ p{
+  color: black;
+}
+
+
+
+div div div div div div div div div div div div div {
+  color: aqua;
+}
+
+.title{
+  color: blue;
+}
